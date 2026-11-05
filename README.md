@@ -1,8 +1,8 @@
-# Gavin James | IT Infrastructure, Systems & Cloud Operations
+# Gavin James | Workplace Technology • Modern Workplace & Endpoint Engineering • IT Operations
 
 Experienced IT professional with a background in enterprise IT operations, systems administration and modern workplace technologies. I'm building on that experience with hands-on **Windows Server 2025**, **Microsoft Azure** and **PowerShell automation** projects, documenting implementation decisions, troubleshooting steps and validation evidence.
 
-I'm interested in **Infrastructure Engineer**, **Systems Administrator**, **Cloud Operations Engineer** and **Modern Workplace Engineer** opportunities.
+I'm interested in **Workplace Technology Engineer**, **Modern Workplace Engineer**, **Digital Workplace Engineer**, **IT Operations** and **Endpoint Engineer** opportunities.
 
 ## 🌐 Digital portfolio & CV
 
@@ -54,7 +54,7 @@ Ten documented hands-on Azure administration projects covering:
 
 ## Opportunities and contact
 
-I'm interested in roles involving **IT infrastructure, systems administration, Microsoft Azure and cloud operations**, where I can apply my existing enterprise IT experience and develop deeper engineering responsibilities.
+I'm interested in **Workplace Technology Engineering**, **Modern Workplace Engineering**, **Digital Workplace Engineering**, **IT Operations** and **Endpoint Engineering** roles, where I can build on my enterprise IT experience across **Entra ID, Intune, Microsoft 365, Windows Autopilot and PowerShell automation** while continuing my **AZ-104** studies.
 
 **Location:** London, UK · **Working preference:** Hybrid or remote
 

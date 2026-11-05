@@ -4,6 +4,12 @@ Experienced IT professional with a background in enterprise IT operations, syste
 
 I'm interested in **Infrastructure Engineer**, **Systems Administrator**, **Cloud Operations Engineer** and **Modern Workplace Engineer** opportunities.
 
+## 🌐 Digital portfolio & CV
+
+Explore my professional background, access my CV, and connect with me on LinkedIn — all in one place:
+
+**[View my Digital Portfolio & CV](https://gavin-james-it.justgee415992.chatgpt.site)**
+
 ## Featured projects
 
 ### 🖥️ [Windows Server 2025 Infrastructure Lab](https://github.com/GeeJay-Tech/Windows-Server-2025-Infrastructure-Lab)
